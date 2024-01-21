@@ -1,6 +1,6 @@
 # ChatApp2
 
-- trying to learning websockets again
+- trying to learning websockets again. This app was only for messages from client to server but not multiple clients
 
 # References
 
